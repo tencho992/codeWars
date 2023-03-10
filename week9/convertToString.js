@@ -11,3 +11,8 @@
 function numberToString(num) {
     return num.toString()
   }
+
+function numberToString(num){
+  let newNum = num.toString()
+  return newNum
+}

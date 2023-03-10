@@ -35,7 +35,7 @@ function numberToPower(number, power){
 // setAlarm(false, false) -> false
 // setAlarm(true, false) -> true
 
-  function setAlarm(employed, vacation){
+function setAlarm(employed, vacation){
     if (employed === true && vacation === true){
       return false
     } else if (employed === true && vacation === false){
@@ -43,4 +43,8 @@ function numberToPower(number, power){
     }else{
       return false
     }
+}
+
+function setAlarm(employed, vacation){
+  return employed === true && vacation === false ? true : false;
 }

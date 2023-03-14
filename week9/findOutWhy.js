@@ -5,3 +5,7 @@ function multiply(a,b){
 }
 
 //needs to return product
+
+function multiply(a,b){
+    return a * b
+}

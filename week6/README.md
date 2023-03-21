@@ -5,8 +5,9 @@ One code war per day (minimum) allows the knowledge I already have for JavaScrip
 
 Storing these prompts allow me to revisit my past codes and review. 
 
-### How to challenge me on CodeWars:
+### sideNotes:
 
-- Find me! My username is Tencho992 and I belong to the Resilient Coders Clan! 
-
-As of March 16, 2023 I am on level 8kyu.
+Week 6
+Attempting all codeWars independently without assistence
+*got lucky on tuesday morning with an easy prompt*
+As of March 21, 2023 I am on level 8kyu.

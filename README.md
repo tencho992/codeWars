@@ -10,3 +10,4 @@ Storing these prompts allow me to revisit my past codes and review.
 - Find me! My username is Tencho992 and I belong to the Resilient Coders Clan! 
 
 As of March 16, 2023 I am on level 8kyu.
+As of March 21, 2023 I am on level 7kyu.

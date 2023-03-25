@@ -1,3 +1,4 @@
+![alt text](../Codewars/imgs/3-25.png)
   ### 🧙‍♂️codeWars!
 
   ### Goal: Build a strong foundation for JS

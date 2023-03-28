@@ -1,3 +1,4 @@
+
 function buildArrayOfNumbers(n){
     if(typeof n !== 'number') return alert('Enter Valid Number')
     const newArray = []

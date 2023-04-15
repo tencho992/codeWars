@@ -8,7 +8,7 @@
 // 8 -> 36 (1 + 2 + 3 + 4 + 5 + 6 + 7 + 8)
 
 var summation = function (num) {
-    let numb = 0
+    let numb = [1, 2, 3]
     for (let i = 1; i <= num; i++){
         numb += i
     }

@@ -15,3 +15,8 @@ function descendingOrder(n){
     const product = arr.sort((a,b) => b- a).join('')
     return +product
   }
+
+function descendingOrder(n){
+    return parseInt(String(n).split('').sort().reverse().join(''))
+}
+  

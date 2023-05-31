@@ -10,8 +10,6 @@
 // Note: If the number is a multiple of both 3 and 5, 
 // only count it once.
 
-
-
 function solution(number){
   
     if (number < 0){
@@ -25,3 +23,6 @@ function solution(number){
     }
     return sum
 }
+
+//similar to fizzbuzz
+//always return negative int outcome first

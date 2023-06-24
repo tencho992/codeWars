@@ -10,3 +10,6 @@ function twoSum(num, target){
         }
     }
 }
+
+//STEP 2: OPTIMIZE THIS CODE!!
+//(n/2)*(starting number - ending number) 

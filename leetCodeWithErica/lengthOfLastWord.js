@@ -2,7 +2,9 @@
 // return the length of the last word in the string.
 
 var lengthOfLastWord = function(s) {
-    let strArr = s.split(' ')
-    let lastWord = strArr[-1]
+    let strArr = s.split(' ').reverse()
+    console.log(strArr)
+    let lastWord= strArr[0]
     return lastWord.length
 };
+//aweee snapppp

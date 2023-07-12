@@ -9,3 +9,12 @@ function validPhoneNumber(phoneNumber){
     let formula = /^\(\d{3}\) \d{3}-\d{4}$/
     return formula.test(phoneNumber)
   }
+
+
+
+let formula = /^\(\d{3}\) \d{3}-\d{4}$/
+
+let regEx = /^\(\d{3}\) \d{3}-\d{4}$/
+    regEx = /^\(\d{3}\) \d{3}-\d{4}$/
+    regEx = /^\(\d{3}\) \d{3}-\d{4}$/
+    regex = /^\(\d{3}\) \d{3}-\d{4}$/ 

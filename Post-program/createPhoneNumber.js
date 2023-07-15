@@ -10,15 +10,17 @@
 // Don't forget the space after the closing parentheses!
 
 function createPhoneNumber(numbers){
-    const newPhone = numbers.toString()
+    const newStr = numbers.toString()
+    console.log(newStr)
+    const newPhone = newStr.replaceAll(',', '')
     console.log(newPhone)
-    const newFone = newPhone.replaceAll(',', '')
-    console.log(newFone)
-    const area_code = newFone.slice(0, 3)
+    const area_code = newPhone.slice(0, 3)
     console.log(area_code)
-    const first_three = newFone.slice(3, 6)
+    const first_three = newPhone.slice(3, 6)
     console.log(first_three)
-    const last_four = newFone.slice(6, 10)
+    const last_four = newPhone.slice(6, 10)
     console.log(last_four)
     return `(${area_code}) ${first_three}-${last_four}`
   }
+
+  console.log(createPhoneNumber([6,1,7,3,8,6,0,1,2,0]))

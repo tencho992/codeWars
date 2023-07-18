@@ -1,4 +1,4 @@
-![alt text]('imgs/codewars.jpeg')
+![alt text](imgs/codewars.jpeg)
   ### 🧙‍♂️codeWars!
 
   ### Goal: Build a strong foundation for JS

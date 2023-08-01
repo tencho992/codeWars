@@ -8,7 +8,7 @@
 
 class SmallestIntegerFinder {
     findSmallestInt(args) {
-      const min = Math.min(...args)
+      const min = Math.min(...args) //spread operator required!
       console.log(min)
       return min
     }

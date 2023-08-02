@@ -8,8 +8,16 @@
 
 class SmallestIntegerFinder {
     findSmallestInt(args) {
-      const min = Math.min(...args) //spread operator required!
+      const min = Math.min(...args) 
       console.log(min)
       return min
     }
   }
+//doesn't work- NEEDS spread operator
+  // class SmallestIntegerFinder {
+  //   findSmallestInt(args) {
+  //     const min = Math.min(...args) 
+  //     console.log(min)
+  //     return min
+  //   }
+  // }

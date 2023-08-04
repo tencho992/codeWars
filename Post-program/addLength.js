@@ -11,4 +11,14 @@
 // Note: String will have at least one element; words will always be separated by a space.
 
 //unsolved
+function addLength(str) {
+    let array = str.split(' ')
+    //console.log(array)
+    let count = 0;
+    let newMap = array.map( item => {
+      count += item.length
+     `${item} ${count}`
+    })
+    console.log(newMap)
+  }
  

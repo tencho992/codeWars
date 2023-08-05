@@ -15,10 +15,10 @@ function addLength(str) {
     let array = str.split(' ')
     //console.log(array)
     let count = 0;
-    let newMap = array.map( item => {
+    array.map( item => {
       count += item.length
-     `${item} ${count}`
+     return `${item} ${count}`
     })
-    console.log(newMap)
+    //still doesnt work
   }
  

@@ -14,11 +14,12 @@
 function addLength(str) {
     let array = str.split(' ')
     //console.log(array)
-    let count = 0;
-    array.map( item => {
-      count += item.length
-     return `${item} ${count}`
-    })
-    //still doesnt work
-  }
+    const result = [];
+    for (const word of words) {
+        const wordLength = word.length;
+        result.push(`${word} ${wordLength}`);
+      }
+    
+      return result;
+    }
  

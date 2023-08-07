@@ -10,16 +10,14 @@
 
 // Note: String will have at least one element; words will always be separated by a space.
 
-//unsolved
 function addLength(str) {
     let array = str.split(' ')
-    //console.log(array)
-    const result = [];
-    for (const word of words) {
-        const wordLength = word.length;
-        result.push(`${word} ${wordLength}`);
-      }
-    
-      return result;
+    console.log(array)
+    let results = [];
+    for(let i =0; i < array.length; i++){
+      let word = array[i]
+      let count = word.length
+      results.push(`${word} ${count}`)
     }
- 
+    return results
+  }

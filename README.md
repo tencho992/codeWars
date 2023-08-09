@@ -2,7 +2,7 @@
   ### 🧙‍♂️codeWars!
 
   ### Goal: Build a strong foundation for JS
-One code war per day (minimum) allows the knowledge I already have for JavaScript to be tested. When I encounter a question I dont know, I am know able to research to efficiently fill that knowledge gap. 
+One code war per day allows the knowledge I already have for JavaScript to be tested.
 
 Storing these prompts allow me to revisit my past codes and review. 
 

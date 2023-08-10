@@ -3,6 +3,7 @@
 
   ### Goal: Build a strong foundation for JS
 One code war per day allows the knowledge I already have for JavaScript to be tested.
+-Contains LEETCODE challenges done with Erica
 
 Storing these prompts allow me to revisit my past codes and review. 
 

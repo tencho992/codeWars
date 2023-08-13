@@ -17,4 +17,5 @@ function distinct(a) {
       }
     }
     return newArr
-  }
+}
+
